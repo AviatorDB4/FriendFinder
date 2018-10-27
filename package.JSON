@@ -4,9 +4,9 @@
     "description": "Find Friends by taking a survey",
     "main": "server.js",
     "dependencies": {
-      "body-parser": "^1.15.0",
-      "express": "^4.13.4",
-      "path": "0.12.7"
+      "body-parser": "^1.18.3",
+      "express": "^4.16.4",
+      "path": "^0.12.7"
     },
     "scripts": {
       "start": "node server.js"
